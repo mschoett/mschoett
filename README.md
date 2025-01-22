@@ -1,6 +1,7 @@
-## My name is Michael Schöttner 
+## Hi there
 
-I am leading the operating system group at Heinrich-Heine University Duesseldorf in Germany. We are currently working on a distributed operating system called D3OS for data centers. This OS is written in Rust.
+- My name is Michael Schöttner 
+- 🔭 I’m currently working on a distributed operating system called D3OS for data centers. This OS is written in Rust.
 
 <!--
 **mschoett/mschoett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
